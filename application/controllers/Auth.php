@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 123123121423
 4
 1234
@@ -6,13 +6,34 @@
 123
 41
 234
-=======
->>>>>>> branch 'feature-register' of git@github.com:jakkti12/kitlnwza.git
+
+
+2341234
+1234
+2134
+1
+24
+
+priauu
+
+1
+2341
+234
+21
+34
+123
+4
+124
 12
-<<<<<<< HEAD
+34
+124
+
+
+12
+
 344
 priauu
-=======
+
 3
 123
 12
@@ -32,4 +53,3 @@ priauu
 13
 1
 23
->>>>>>> branch 'feature-register' of git@github.com:jakkti12/kitlnwza.git
