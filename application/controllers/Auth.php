@@ -1,12 +1,21 @@
 
+123123121423
+4
+1234
+1234
+123
+41
+234
+
+
 2341234
 1234
 2134
 1
 24
-<<<<<<< HEAD
+
 priauu
-=======
+
 1
 2341
 234
@@ -19,7 +28,12 @@ priauu
 34
 124
 
+
 12
+
+344
+priauu
+
 3
 123
 12
@@ -39,5 +53,3 @@ priauu
 13
 1
 23
-
->>>>>>> branch 'feature-edit-profile' of git@github.com:jakkti12/kitlnwza.git
