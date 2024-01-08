@@ -4,6 +4,9 @@
 2134
 1
 24
+<<<<<<< HEAD
+priauu
+=======
 1
 2341
 234
@@ -37,3 +40,4 @@
 1
 23
 
+>>>>>>> branch 'feature-edit-profile' of git@github.com:jakkti12/kitlnwza.git
